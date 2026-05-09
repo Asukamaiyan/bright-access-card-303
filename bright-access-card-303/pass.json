@@ -3,24 +3,24 @@
   "passTypeIdentifier": "pass.mk.local",
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "6DF6618E6F28B4FF",
-  "organizationName": "Bright Access Card 303",
+  "organizationName": "University of California, Los Angeles",
   "description": "Apple Wallet pass project",
-  "foregroundColor": "rgb(255, 255, 255)",
-  "backgroundColor": "rgb(15, 23, 42)",
-  "labelColor": "rgb(148, 163, 184)",
+  "foregroundColor": "rgb(250, 250, 250)",
+  "backgroundColor": "rgb(17, 24, 39)",
+  "labelColor": "rgb(156, 163, 175)",
   "generic": {
     "headerFields": [
       {
         "key": "h1",
         "label": "Credit",
-        "value": "$120"
+        "value": "$120,000"
       }
     ],
     "primaryFields": [
       {
         "key": "p1",
         "label": "Member",
-        "value": "Traveler 1195"
+        "value": "Tempest"
       }
     ],
     "secondaryFields": [
@@ -51,7 +51,7 @@
       }
     ]
   },
-  "logoText": "Bright Access Card 303",
+  "logoText": "UCLA",
   "barcodes": [
     {
       "format": "PKBarcodeFormatQR",

@@ -1,12 +1,12 @@
 {
-  "pass.json": "859765c500797dc8ab1dc0b3a374e801e06333ca",
+  "pass.json": "1c8d00a1606709696ebc80495f811d8ce7dff216",
   "icon.png": "72bdcc6c74d3905665369ff76cc19b24f935826d",
   "icon@2x.png": "e7f0aa9b9b89df0e351a6394925178daafe97ba3",
   "icon@3x.png": "cf0e8478a8c47bb87ac2eafe2479e60b724de82d",
-  "logo.png": "7bbdc9d2902b91a58d3d89df8894cbcaaec9b3f5",
-  "logo@2x.png": "671dd0d60f50b68fee18ab7ad5f6e4360aeb4b9b",
-  "logo@3x.png": "3d30869f8515fb6c551d0d0c4fe93361a23d3087",
-  "thumbnail.png": "456c4a3669516874ce7475003723cd2cb03e7851",
-  "thumbnail@2x.png": "56e738ff8b3168c821b670d1bf06a6e625d3092f",
-  "thumbnail@3x.png": "c71268f0d2d51931156ce6665b15538bd8a06c8b"
+  "logo.png": "cb7a987c7708b636ff096bd02fbc8ba977381f8d",
+  "logo@2x.png": "274e582546bc5bcb170ac3fb704e9c7824d6834f",
+  "logo@3x.png": "6a52cd8ecd89df953305ce66caabd8dae48a75ff",
+  "thumbnail.png": "ba7e6a940eaa28cc24c470efd6c5eec430198138",
+  "thumbnail@2x.png": "6b0a0308b2c4f9ee6a5b0ffae0e7f8f59460c2e1",
+  "thumbnail@3x.png": "e0254df7a198112d709982faa5c1a3e0c75857d8"
 }
